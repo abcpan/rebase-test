@@ -1,6 +1,7 @@
 # this is the env
 export PATH=$PATH: /usr/local/nginx
 
+
 plugins=(git suggestion-completion)
 
 
