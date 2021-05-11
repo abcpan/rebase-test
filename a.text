@@ -1,4 +1,13 @@
 # this is the env
 export PATH=$PATH: /usr/local/nginx
 
+
 plugins=(git suggestion-completion)
+
+
+hello world!
+啦啦啦, 啦啦啦, 我是卖报的小行家
+
+不等明天去派报
+
+一面走, 一面叫
